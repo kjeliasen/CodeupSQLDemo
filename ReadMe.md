@@ -1,5 +1,5 @@
 # SQL Demo
-# [Google Slides Presentation]( https://github.com/kjeliasen/CodeupSQLDemo)
+# [Google Slides Presentation]( https://github.com/kjeliasen/CodeupSQLDemo/blob/master/Codeup%20Bayes%20SQL%20Lunch%20n'%20Learn.pdf)
 
 ## by Kevin Eliasen
 
