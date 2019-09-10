@@ -1,6 +1,9 @@
 # SQL Demo
-## Codeup - Bayes Cohort
+# [Google Slides Presentation]( https://github.com/kjeliasen/CodeupSQLDemo)
 
-by Kevin Eliasen
+## by Kevin Eliasen
 
-[Google Slides Presentation]( https://github.com/kjeliasen/CodeupSQLDemo)
+### Presented 10 Sep 2019
+### Codeup - Bayes Cohort
+
+
